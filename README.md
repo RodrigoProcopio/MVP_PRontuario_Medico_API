@@ -84,4 +84,4 @@ Este projeto foi desenvolvido por Rodrigo Procópio e pode ser encontrado no [Gi
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/RodrigoProcopio/MVP_Prontuario_Medico/blob/main/MVP_Prontuario_Medico/prontuario_medico_api/LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE] para obter detalhes.
