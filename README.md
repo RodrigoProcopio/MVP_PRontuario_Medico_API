@@ -84,4 +84,4 @@ Este projeto foi desenvolvido por Rodrigo Procópio e pode ser encontrado no [Gi
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE] (LICENSE) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENCE] para obter detalhes.
